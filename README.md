@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Technologies Used](#technologies-used) python, numpy, pandas, seaborn, matplotlib, anaconda
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -12,6 +12,7 @@
 
 ## General Information
 - Provide general information about your project here.
+- The project is about doing an exploratory data analysis on dataset containing loan details of borrowers. The file has been provided in the portal. The code expects the file to be present in same directory as the notebook and name of data file should be "loan.csv". We have performed various steps like data cleaning, data sanitization, data manipulation, outlier analysis, univariate analysis, segmented univariate analysis, bivariate analysis using pandas, numpy, seaborn and matplotlib in python
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 Identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc
@@ -39,9 +40,10 @@ loan.csv file provided
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project is based on upgrad course material and techniques learnt as part of course
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+-
+- 
 
 
 ## Contact
